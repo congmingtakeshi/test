@@ -1,0 +1,4 @@
+.superpowers/
+build/
+.pio/
+__pycache__/
